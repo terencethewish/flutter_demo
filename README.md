@@ -1,6 +1,7 @@
 # flutter_app
 
 A new Flutter application.
+
 This repo display basic flutter dev skills. And I am still on it. Just for fun.
 
 ## Getting Started
