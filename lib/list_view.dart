@@ -23,9 +23,9 @@ class _MyListViewPageState extends State<MyListViewPage>{
     return new MaterialApp(
       title: 'Welcome to Flutter',
       home: new Scaffold(
-        appBar: new AppBar(
-          title: new Text('Welcome to Flutter'),
-        ),
+//        appBar: new AppBar(
+//          title: new Text('Welcome to Flutter'),
+//        ),
         body: _buildSuggestions(),
       ),
     );
